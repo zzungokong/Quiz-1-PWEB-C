@@ -1,0 +1,46 @@
+
+
+.kop{
+    display: flex;
+    justify-content: flex-start;
+}
+.atas .item{
+    align-content: flex-end;
+}
+.item{
+    width : 600px;
+    height : fit-content;
+}
+.item1{
+    height : fit-content;
+
+}
+
+.vertikal{
+    flex-direction: column;
+    
+}
+
+input.radio {
+    float: left;
+    clear: none;
+    margin: 2px 0 0 2px;
+  }
+
+.judul h2{
+    background-color: blue;
+    color: white;
+    width : 75%;
+    text-align: center;
+}
+
+.judulkecil{
+    background-color: blue;
+    color: white;
+    width : 25%;
+    text-align: center;
+}
+
+
+
+
